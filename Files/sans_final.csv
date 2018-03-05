@@ -210,4 +210,4 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,ADD,I,$I,1,,,,,
 0,JMPL,166,$I,38,,,,,
 1.5,SansAnimation,Tired,,,,,,,
-2.4,EndAttack,,,,,,,,
+
